@@ -6,13 +6,13 @@
 
 |Name | Implemented in | GUI | License |
 ------|----------------|-----|---------|
-| [burp](https://github.com/grke/burp)  |  C |   Unix,Mac,Windows, Web   | AGPLv3  |
+| [burp](https://github.com/grke/burp)  |  C |   Unix,Mac,Windows,Web   | AGPLv3  |
 | [duplicity](http://duplicity.nongnu.org/) | Python2 | CLI              | GPLv2   |
 | [borg](https://github.com/borgbackup/borg) | Python3 | CLI, Web        | BSD     |
 | [zbackup](http://zbackup.org/)            | C++      | CLI             | GPLv2   |
 | [bup](https://github.com/bup/bup) | Python2|  CLI, GTK, QT |           GPLv2     |
 | [restic](http://restic.github.io) | GoLang | CLI  |  BSD 2 Clause |
-| [git-annex-assistant](https://git-annex.branchable.com/assistant/)| Haskell | AGPL\GPL |
+| [git-annex-assistant](https://git-annex.branchable.com/assistant/)| Haskell | Unix,Mac,Windows, Web, Android |AGPL\GPL |
 
 Know any good backup Software? Make a PR! I'll added it here!
 
