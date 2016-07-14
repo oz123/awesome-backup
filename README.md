@@ -17,7 +17,7 @@
 | [syncthing](https://github.com/syncthing/syncthing) | GoLang |CLI, Web, Android, GTK |  MPLv2 |
 | [btrbk](https://github.com/digint/btrbk)| Perl | CLI | GPLv3 |
 
-Know any good backup Software? Make a PR! I'll added it here!
+Know any good backup Software? Make a PR! I'll add it here!
 
 Tivoli Storage Manager should die! This list is intended to advocate Free Software
 Backup solution, and is dedicated to all those gone hourse I spend monitoring 
