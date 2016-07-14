@@ -14,7 +14,8 @@
 | [restic](http://restic.github.io) | GoLang | CLI  |  BSD 2 Clause |
 | [git-annex-assistant](https://git-annex.branchable.com/assistant/)| Haskell | Unix,Mac,Windows, Web, Android |AGPL\GPL |
 | [poppins](https://bitbucket.org/poppins/poppins) | PHP (ssh,rsync) | CLI | GPLv3
-| [syncthing](https://github.com/syncthing/syncthing) | GoLang |CLI, Web, Android, GTK |  MPLv2|
+| [syncthing](https://github.com/syncthing/syncthing) | GoLang |CLI, Web, Android, GTK |  MPLv2 |
+| [btrbk](https://github.com/digint/btrbk)| Perl | CLI | GPLv3 |
 
 Know any good backup Software? Make a PR! I'll added it here!
 
