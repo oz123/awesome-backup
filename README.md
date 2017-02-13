@@ -16,10 +16,17 @@
 | [poppins](https://bitbucket.org/poppins/poppins) | PHP (ssh,rsync) | CLI | GPLv3
 | [syncthing](https://github.com/syncthing/syncthing) | GoLang |CLI, Web, Android, GTK |  MPLv2 |
 | [btrbk](https://github.com/digint/btrbk)| Perl | CLI | GPLv3 |
+| [rdedup](https://github.com/dpc/rdedup.git) | Rust | CLI | MPL-2 |
+| [knoxite](https://github.com/knoxite/knoxite) | GO  | CLI  | AGPLv3 |
+| [zpaq](https://github.com/zpaq/zpaq) | C++ | CLI | Public Domain |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
-Tivoli Storage Manager should die! This list is intended to advocate Free Software
+You No Backup?
+
+
+
+This list is intended to advocate Free Software
 Backup solution, and is dedicated to all those gone hourse I spend monitoring 
 TSM.
 
