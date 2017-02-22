@@ -17,8 +17,9 @@
 | [syncthing](https://github.com/syncthing/syncthing) | GoLang |CLI, Web, Android, GTK |  MPLv2 |
 | [btrbk](https://github.com/digint/btrbk)| Perl | CLI | GPLv3 |
 | [rdedup](https://github.com/dpc/rdedup.git) | Rust | CLI | MPL-2 |
-| [knoxite](https://github.com/knoxite/knoxite) | GO  | CLI  | AGPLv3 |
+| [knoxite](https://github.com/knoxite/knoxite) | Go  | CLI  | AGPLv3 |
 | [zpaq](https://github.com/zpaq/zpaq) | C++ | CLI | Public Domain |
+| [scat](https://gitlab.com/Roman2K/scat) | Go | CLI | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
