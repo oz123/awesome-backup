@@ -22,7 +22,7 @@
 | [knoxite](https://github.com/knoxite/knoxite) | Go  | CLI  | AGPLv3 |
 | [zpaq](https://github.com/zpaq/zpaq) | C++ | CLI | Public Domain |
 | [scat](https://gitlab.com/Roman2K/scat) | Go | CLI | MIT |
-
+| [snapraid](https://github.com/amadvance/snapraid/) | C| CLI | GPLv3 |
 Know any good backup Software? Make a PR! I'll add it here!
 
 This list is intended to advocate Free Software
