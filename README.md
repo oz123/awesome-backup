@@ -25,6 +25,7 @@
 | [snapraid](https://github.com/amadvance/snapraid/) | C| CLI | GPLv3 |
 | [dar](http://dar.linux.free.fr/) | C++| CLI | GPLv2 |
 | [dargui](http://dargui.sourceforge.net/) | C++| Unix, Windows | GPLv3 |
+| [freefilesync](https://freefilesync.org/) | C++| Unix, Mac, Windows | GPLv3 |
 Know any good backup Software? Make a PR! I'll add it here!
 
 This list is intended to advocate Free Software
