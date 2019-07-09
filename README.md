@@ -26,6 +26,9 @@
 | [dar](http://dar.linux.free.fr/) | C++| CLI | GPLv2 |
 | [dargui](http://dargui.sourceforge.net/) | C++| Unix, Windows | GPLv3 |
 | [freefilesync](https://freefilesync.org/) | C++| Unix, Mac, Windows | GPLv3 |
+| [duplicaty](https://github.com/duplicati/duplicati) | C# | Unix, Mac, Windows | LGPLv3 |
+
+
 Know any good backup Software? Make a PR! I'll add it here!
 
 This list is intended to advocate Free Software
