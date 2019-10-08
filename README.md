@@ -27,7 +27,7 @@
 | [dargui](http://dargui.sourceforge.net/) | C++| Unix, Windows | GPLv3 |
 | [freefilesync](https://freefilesync.org/) | C++| Unix, Mac, Windows | GPLv3 |
 | [duplicati](https://github.com/duplicati/duplicati) | C# | Unix, Mac, Windows | LGPLv3 |
-| [urback](https://www.urbackup.org/index.html) | C# | ˇUnix, Mac, Windows, Web | AGPLv3 |
+| [urback](https://www.urbackup.org/index.html) | C | ˇUnix, Mac, Windows, Web | AGPLv3 |
 
 
 Know any good backup Software? Make a PR! I'll add it here!
