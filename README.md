@@ -31,7 +31,7 @@
 | [urback](https://www.urbackup.org/index.html) | C | ˇUnix, Mac, Windows, Web | AGPLv3 |
 | [rsync](https://github.com/WayneD/rsync) | C | CLI | GPLv3 |
 | [backup-anything](https://github.com/gui-text/backup-anything/blob/master/README.md) | Shell | Linux, Mac | MIT |
-
+| [kopia](https://kopia.io) | Go | Linux, Mac, Windows | Apache License 2.0 |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
