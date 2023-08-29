@@ -33,6 +33,7 @@
 | [backup-anything](https://github.com/gui-text/backup-anything/blob/master/README.md) | Shell | Linux, Mac | MIT |
 | [kopia](https://kopia.io) | Go | Linux, Mac, Windows | Apache License 2.0 |
 | [backy](https://github.com/vdbsh/backy) | Go | CLI |  BSD-3-Clause |
+| [gobackup](https://github.com/gobackup/gobackup) | Go | CLI | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
