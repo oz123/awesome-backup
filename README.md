@@ -34,7 +34,7 @@
 | [gobackup](https://github.com/gobackup/gobackup) | Go | CLI | MIT |
 | [gobackup](https://github.com/gobackup/gobackup) | Go | CLI | MIT |
 | [rclone](https://github.com/rclone/rclone)       | Go | CLI | MIT |
-| [plakar](https://plakar.io/)       | Go | Web | MIT |
+| [plakar](https://plakar.io/)       | Go | CLI, Web | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
