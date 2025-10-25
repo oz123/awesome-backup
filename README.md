@@ -32,7 +32,6 @@
 | [kopia](https://kopia.io) | Go | Linux, Mac, Windows | Apache License 2.0 |
 | [backy](https://github.com/vdbsh/backy) | Go | CLI |  BSD-3-Clause |
 | [gobackup](https://github.com/gobackup/gobackup) | Go | CLI | MIT |
-| [gobackup](https://github.com/gobackup/gobackup) | Go | CLI | MIT |
 | [rclone](https://github.com/rclone/rclone)       | Go | CLI | MIT |
 | [plakar](https://plakar.io/)       | Go | CLI, Web | MIT |
 | [minarca](https://minarca.org/) | Python | CLI, Linux, Mac, Windows, Web | GPLv2 |
