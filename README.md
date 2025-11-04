@@ -36,6 +36,7 @@
 | [rclone](https://github.com/rclone/rclone)       | Go | CLI | MIT |
 | [plakar](https://plakar.io/)       | Go | CLI, Web | MIT |
 | [minarca](https://minarca.org/) | Python | CLI, Linux, Mac, Windows, Web | GPLv2 |
+| [blinkdisk](https://blinkdisk.com) | Go | Linux, Mac, Windows | FSL-1.1-ALv2 |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
