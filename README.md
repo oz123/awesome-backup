@@ -36,6 +36,7 @@
 | [rclone](https://github.com/rclone/rclone)       | Go | CLI | MIT |
 | [plakar](https://plakar.io/)       | Go | CLI, Web | MIT |
 | [minarca](https://minarca.org/) | Python | CLI, Linux, Mac, Windows, Web | GPLv2 |
+| [duplicacy-cli-cron](https://github.com/GeiserX/duplicacy-cli-cron) | Shell, Docker | CLI | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
