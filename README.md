@@ -37,6 +37,7 @@
 | [plakar](https://plakar.io/)       | Go | CLI, Web | MIT |
 | [minarca](https://minarca.org/) | Python | CLI, Linux, Mac, Windows, Web | GPLv2 |
 | [backup-labs](https://github.com/limburatorul/backup-labs) | C# | Windows | MIT |
+| [GitLab Dump](https://github.com/rekurt/gitlab-downloader) | JavaScript | CLI, Electron | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
