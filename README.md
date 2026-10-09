@@ -9,7 +9,7 @@
 | [burp](https://github.com/grke/burp)  |  C |   Unix,Mac,Windows,Web   | AGPLv3  |
 | [duplicity](http://duplicity.nongnu.org/) | Python2 | CLI              | GPLv2   |
 | [duplicacy](https://github.com/gilbertchen/duplicacy) |  Go | Mac, Windows, Web | Free for personal use |
-| [duplicacy-cli-cron](https://github.com/GeiserX/duplicacy-cli-cron) | Shell | Docker | MIT |
+| [duplicacy-cli-cron](https://github.com/GeiserX/duplicacy-cli-cron) | Shell | CLI | GPLv3 |
 | [borg](https://github.com/borgbackup/borg) | Python3 | CLI, Web        | BSD     |
 | [zbackup](http://zbackup.org/)            | C++      | CLI             | GPLv2   |
 | [bup](https://github.com/bup/bup) | Python2|  CLI, GTK, QT |           GPLv2     |
