@@ -39,6 +39,7 @@
 | [backup-labs](https://github.com/limburatorul/backup-labs) | C# | Windows | MIT |
 | [tinybackup](https://github.com/bderenzo/tinybackup) | Bash | CLI, Web | MIT |
 | [VaultSync](https://github.com/ATAC-Helicopter/VaultSync) | C# (.NET) | Linux, Mac, Windows | MIT |
+| [restoredrill](https://github.com/hamarshehmhmd/restoredrill) | Python | CLI, GitHub Action | AGPL-3.0 |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
