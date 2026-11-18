@@ -39,6 +39,7 @@
 | [backup-labs](https://github.com/limburatorul/backup-labs) | C# | Windows | MIT |
 | [tinybackup](https://github.com/bderenzo/tinybackup) | Bash | CLI, Web | MIT |
 | [VaultSync](https://github.com/ATAC-Helicopter/VaultSync) | C# (.NET) | Linux, Mac, Windows | MIT |
+| [UndoHaven](https://github.com/Antipas/undohaven) (unofficial; E2E-encrypted snapshots, rollback and machine migration for the dsh agent runtime; [site](https://undohaven.com/?utm_source=awesomebackup)) | JavaScript (Node.js) | CLI | MIT |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
